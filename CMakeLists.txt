@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.21)
+project(pc2)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(pc2 main.cpp)
+add_executable(problema1 problema1.cpp)
+add_executable(problema2 problema2.cpp)
+add_executable(problema3 problema3.cpp)
+add_executable(problema4 problema4.cpp)
+add_executable(problema5 problema5.cpp)
+add_executable(problema6 problema6.cpp)
+add_executable(problema7 problema7.cpp)
+add_executable(problema8 problema8.cpp)
+add_executable(problema9 problema9.cpp)
+add_executable(problema10 problema10.cpp)
+add_executable(problema11 problema11.cpp)
